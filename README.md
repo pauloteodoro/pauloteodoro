@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Oiii! Eu sou a Paulo TEodoro
+## Oiii! Eu sou a Paulo Teodoro
  <div>
   <a href="https://github.com/pauloteodoro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloteodoro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
